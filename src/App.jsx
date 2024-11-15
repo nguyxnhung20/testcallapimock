@@ -1,5 +1,6 @@
-import "antd/dist/reset.css"; // Import Ant Design styles
+import "antd/dist/reset.css";
 import UserList from "./component/UserManagement/UserList";
+import "./App.css";
 
 function App() {
   return (
